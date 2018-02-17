@@ -1,5 +1,5 @@
 {
-    "name": "gw19900524/laravel-hashing",
+    "name": "ethanzway/laravel-hashing",
     "keywords": ["laravel", "hashing"],
     "description": "Laravel Md5 Hashing Provider",
     "type": "library",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gw19900524\\Hashing\\": "src/"
+            "Ethanzway\\Hashing\\": "src/"
         }
     }
 }

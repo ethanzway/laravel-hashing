@@ -1,6 +1,6 @@
 <?php
 
-namespace Gw19900524\Hashing;
+namespace Ethanzway\Hashing;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -24,7 +24,7 @@ class MD5HashServiceProvider extends ServiceProvider
     public function register()
     {
         $this->app->singleton('hash', function () {
-            return new \Gw19900524\Hashing\MD5Hasher;
+            return new \Ethanzway\Hashing\MD5Hasher;
         });
     }
 }

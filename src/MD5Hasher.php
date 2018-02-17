@@ -1,6 +1,6 @@
 <?php
 
-namespace Gw19900524\Hashing;
+namespace Ethanzway\Hashing;
 
 use Illuminate\Contracts\Hashing\Hasher;
 
