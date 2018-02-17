@@ -18,5 +18,14 @@
         "psr-4": {
             "Ethanzway\\Hashing\\": "src/"
         }
+    },
+	"extra": {
+        "laravel": {
+            "providers": [
+                "Ethanzway\\Hashing\\MD5HashServiceProvider"
+            ],
+            "aliases": {
+            }
+        }
     }
 }
