@@ -1,2 +1,2 @@
 # laravel-hashing
-The Laravel Md5Hashing package.
+The Laravel Hashing package.

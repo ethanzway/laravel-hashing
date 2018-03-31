@@ -22,7 +22,7 @@
 	"extra": {
         "laravel": {
             "providers": [
-                "Ethanzway\\Hashing\\MD5HashServiceProvider"
+                "Ethanzway\\Hashing\\HashServiceProvider"
             ],
             "aliases": {
             }
